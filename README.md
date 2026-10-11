@@ -37,7 +37,14 @@ shrimp-counting-yolov8/
 
 The following sample images show the model's shrimp detections. Bounding boxes indicate detected objects, and the displayed values represent model confidence scores.
 
-> Add your uploaded prediction images here using their exact filenames.
+### Sample 1 — Shrimp Detection
+![Shrimp detection sample 1](6451674985940_-pic_jpg.rf.c8da0cadb7ecaf1aaf6d52bc2f3367d3.jpg)
+
+### Sample 2 — Multiple Shrimp Detection
+![Shrimp detection sample 2](6581674986076_-pic_jpg.rf.e2e70490ef0abd45f7d54ef65fb24693.jpg)
+
+### Sample 3 — Crowded Scene Detection
+![Shrimp detection sample 3](8161675603780_-pic_jpg.rf.4b8485a8701d54dea65aa9927d2d6d21.jpg)
 
 ## ⚙️ Installation
 
